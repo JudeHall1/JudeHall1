@@ -1,8 +1,8 @@
 Hi, I'm Jude
 
 # 💫 About Me:
-🔭 I’m currently working on object-orientated projects in Java
-Currently studying Computer Science at the University of York
+🔭 I’m currently working on object-orientated projects in Java<br/>
+Currently studying Computer Science at the University of York<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jude-hall-6a25b0338) 
